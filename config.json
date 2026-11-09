@@ -1,0 +1,14 @@
+{
+  "price_k": 0.06,
+  "price_min_factor": 0.5,
+  "price_max_factor": 3.0,
+  "tick_game_hours": 6,
+  "tick_real_seconds": 2.0,
+  "negotiation_max_rounds": 5,
+  "default_storage_capacity": 500,
+  "player_transaction_mode": "full",
+  "seasonal_production": true,
+  "record_daily_flows": true,
+  "price_history_days": 90,
+  "theme": "dark"
+}

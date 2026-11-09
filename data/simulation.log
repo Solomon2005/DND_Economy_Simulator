@@ -1,0 +1,174 @@
+2026-11-09 21:23:33,437 INFO app.simulation: тик выполнен: час=6, торговцев=2, маршрутов=2, возможностей=6, принято=3, покупок=2, продаж=0, в пути=2
+2026-11-09 21:23:33,437 INFO app.simulation:   сделка отклонена: цена назначения (113) не выше цены закупки (142)
+2026-11-09 21:23:33,437 INFO app.simulation:   сделка отклонена: цена назначения (75) не выше цены закупки (104)
+2026-11-09 21:23:33,437 INFO app.simulation:   сделка отклонена: цена назначения (47) не выше цены закупки (83)
+2026-11-09 21:23:35,461 INFO app.simulation: тик выполнен: час=12, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=0, в пути=2
+2026-11-09 21:23:37,498 INFO app.simulation: тик выполнен: час=18, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=2, в пути=0
+2026-11-09 21:23:37,769 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:23:37,769 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:23:39,538 INFO app.simulation: тик выполнен: час=24, торговцев=2, маршрутов=2, возможностей=6, принято=3, покупок=2, продаж=0, в пути=2
+2026-11-09 21:23:39,538 INFO app.simulation:   сделка отклонена: цена назначения (39) не выше цены закупки (98)
+2026-11-09 21:23:39,540 INFO app.simulation:   сделка отклонена: цена назначения (101) не выше цены закупки (120)
+2026-11-09 21:23:39,540 INFO app.simulation:   сделка отклонена: цена назначения (63) не выше цены закупки (87)
+2026-11-09 21:23:41,557 INFO app.simulation: тик выполнен: час=30, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=0, в пути=2
+2026-11-09 21:23:43,575 INFO app.simulation: тик выполнен: час=36, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=2, в пути=0
+2026-11-09 21:23:45,602 INFO app.simulation: тик выполнен: час=42, торговцев=2, маршрутов=2, возможностей=6, принято=2, покупок=2, продаж=0, в пути=2
+2026-11-09 21:23:45,602 INFO app.simulation:   сделка отклонена: прибыль 97 CP меньше минимальной маржи (750 CP)
+2026-11-09 21:23:45,602 INFO app.simulation:   сделка отклонена: цена назначения (53) не выше цены закупки (72)
+2026-11-09 21:23:45,602 INFO app.simulation:   сделка отклонена: цена назначения (33) не выше цены закупки (116)
+2026-11-09 21:23:45,602 INFO app.simulation:   сделка отклонена: цена назначения (100) не выше цены закупки (104)
+2026-11-09 21:23:47,622 INFO app.simulation: тик выполнен: час=48, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=0, в пути=2
+2026-11-09 21:23:49,646 INFO app.simulation: тик выполнен: час=54, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=2, в пути=0
+2026-11-09 21:23:51,711 INFO app.simulation: тик выполнен: час=60, торговцев=2, маршрутов=2, возможностей=5, принято=3, покупок=2, продаж=0, в пути=2
+2026-11-09 21:23:51,714 INFO app.simulation:   сделка отклонена: цена назначения (27) не выше цены закупки (137)
+2026-11-09 21:23:51,714 INFO app.simulation:   сделка отклонена: цена назначения (44) не выше цены закупки (60)
+2026-11-09 21:23:53,744 INFO app.simulation: тик выполнен: час=66, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=0, в пути=2
+2026-11-09 21:23:55,777 INFO app.simulation: тик выполнен: час=72, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=2, в пути=0
+2026-11-09 21:23:57,816 INFO app.simulation: тик выполнен: час=78, торговцев=2, маршрутов=2, возможностей=5, принято=3, покупок=2, продаж=0, в пути=2
+2026-11-09 21:23:57,816 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (50)
+2026-11-09 21:23:57,816 INFO app.simulation:   сделка отклонена: цена назначения (25) не выше цены закупки (150)
+2026-11-09 21:23:59,834 INFO app.simulation: тик выполнен: час=84, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=0, в пути=2
+2026-11-09 21:24:00,683 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:24:00,683 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:24:01,855 INFO app.simulation: тик выполнен: час=90, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=2, в пути=0
+2026-11-09 21:24:03,894 INFO app.simulation: тик выполнен: час=96, торговцев=2, маршрутов=2, возможностей=5, принято=2, покупок=1, продаж=0, в пути=2
+2026-11-09 21:24:03,894 INFO app.simulation:   сделка отклонена: цена назначения (25) не выше цены закупки (150)
+2026-11-09 21:24:03,894 INFO app.simulation:   сделка отклонена: прибыль -27 CP меньше минимальной (10 CP) с учётом издержков и риска
+2026-11-09 21:24:03,894 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (41)
+2026-11-09 21:24:05,920 INFO app.simulation: тик выполнен: час=102, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=0, в пути=2
+2026-11-09 21:24:07,260 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:24:07,260 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:24:07,956 INFO app.simulation: тик выполнен: час=108, торговцев=2, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=1, в пути=0
+2026-11-09 21:24:09,983 INFO app.simulation: тик выполнен: час=114, торговцев=2, маршрутов=2, возможностей=5, принято=2, покупок=1, продаж=0, в пути=1
+2026-11-09 21:24:09,983 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:09,983 INFO app.simulation:   сделка отклонена: цена назначения (25) не выше цены закупки (150)
+2026-11-09 21:24:09,983 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:12,001 INFO app.simulation: тик выполнен: час=120, торговцев=2, маршрутов=1, возможностей=1, принято=0, покупок=0, продаж=0, в пути=1
+2026-11-09 21:24:12,001 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:14,024 INFO app.simulation: тик выполнен: час=126, торговцев=2, маршрутов=1, возможностей=2, принято=0, покупок=0, продаж=1, в пути=0
+2026-11-09 21:24:14,024 INFO app.simulation:   сделка отклонена: цена назначения (25) не выше цены закупки (150)
+2026-11-09 21:24:14,024 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:26,008 INFO app.simulation: тик выполнен: час=132, торговцев=2, маршрутов=2, возможностей=4, принято=0, покупок=0, продаж=0, в пути=1
+2026-11-09 21:24:26,008 INFO app.simulation:   сделка отклонена: цена назначения (25) не выше цены закупки (150)
+2026-11-09 21:24:26,008 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:26,008 INFO app.simulation:   сделка отклонена: цена назначения (25) не выше цены закупки (150)
+2026-11-09 21:24:26,008 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:28,025 INFO app.simulation: тик выполнен: час=138, торговцев=2, маршрутов=1, возможностей=1, принято=0, покупок=0, продаж=0, в пути=1
+2026-11-09 21:24:28,025 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:30,062 INFO app.simulation: тик выполнен: час=144, торговцев=2, маршрутов=1, возможностей=1, принято=0, покупок=0, продаж=0, в пути=0
+2026-11-09 21:24:30,063 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:32,105 INFO app.simulation: тик выполнен: час=150, торговцев=2, маршрутов=2, возможностей=4, принято=2, покупок=1, продаж=0, в пути=1
+2026-11-09 21:24:32,105 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:32,105 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:34,133 INFO app.simulation: тик выполнен: час=156, торговцев=2, маршрутов=1, возможностей=1, принято=0, покупок=0, продаж=0, в пути=1
+2026-11-09 21:24:34,133 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:36,054 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:24:36,054 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:24:36,156 INFO app.simulation: тик выполнен: час=162, торговцев=2, маршрутов=1, возможностей=2, принято=0, покупок=0, продаж=1, в пути=0
+2026-11-09 21:24:36,156 INFO app.simulation:   сделка отклонена: цена назначения (68) не выше цены закупки (334)
+2026-11-09 21:24:36,158 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:38,186 INFO app.simulation: тик выполнен: час=168, торговцев=2, маршрутов=2, возможностей=4, принято=0, покупок=0, продаж=0, в пути=1
+2026-11-09 21:24:38,196 INFO app.simulation:   сделка отклонена: цена назначения (72) не выше цены закупки (318)
+2026-11-09 21:24:38,196 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:38,202 INFO app.simulation:   сделка отклонена: цена назначения (72) не выше цены закупки (318)
+2026-11-09 21:24:38,202 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:40,218 INFO app.simulation: тик выполнен: час=174, торговцев=2, маршрутов=1, возможностей=2, принято=0, покупок=0, продаж=0, в пути=1
+2026-11-09 21:24:40,218 INFO app.simulation:   сделка отклонена: цена назначения (76) не выше цены закупки (304)
+2026-11-09 21:24:40,218 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:42,231 INFO app.simulation: тик выполнен: час=180, торговцев=2, маршрутов=1, возможностей=2, принято=0, покупок=0, продаж=0, в пути=0
+2026-11-09 21:24:42,231 INFO app.simulation:   сделка отклонена: цена назначения (81) не выше цены закупки (291)
+2026-11-09 21:24:42,231 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:44,268 INFO app.simulation: тик выполнен: час=186, торговцев=2, маршрутов=2, возможностей=4, принято=1, покупок=1, продаж=0, в пути=1
+2026-11-09 21:24:44,270 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:44,270 INFO app.simulation:   сделка отклонена: цена назначения (86) не выше цены закупки (280)
+2026-11-09 21:24:44,270 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:46,299 INFO app.simulation: тик выполнен: час=192, торговцев=2, маршрутов=1, возможностей=2, принято=0, покупок=0, продаж=0, в пути=1
+2026-11-09 21:24:46,299 INFO app.simulation:   сделка отклонена: цена назначения (91) не выше цены закупки (271)
+2026-11-09 21:24:46,299 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:48,329 INFO app.simulation: тик выполнен: час=198, торговцев=2, маршрутов=1, возможностей=3, принято=0, покупок=0, продаж=1, в пути=0
+2026-11-09 21:24:48,329 INFO app.simulation:   сделка отклонена: цена назначения (25) не выше цены закупки (150)
+2026-11-09 21:24:48,329 INFO app.simulation:   сделка отклонена: цена назначения (96) не выше цены закупки (265)
+2026-11-09 21:24:48,329 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:50,359 INFO app.simulation: тик выполнен: час=204, торговцев=2, маршрутов=2, возможностей=6, принято=0, покупок=0, продаж=0, в пути=1
+2026-11-09 21:24:50,359 INFO app.simulation:   сделка отклонена: цена назначения (25) не выше цены закупки (150)
+2026-11-09 21:24:50,359 INFO app.simulation:   сделка отклонена: цена назначения (102) не выше цены закупки (265)
+2026-11-09 21:24:50,359 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:24:50,359 INFO app.simulation:   сделка отклонена: цена назначения (25) не выше цены закупки (150)
+2026-11-09 21:24:50,359 INFO app.simulation:   сделка отклонена: цена назначения (102) не выше цены закупки (265)
+2026-11-09 21:24:50,359 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (40)
+2026-11-09 21:40:38,480 INFO app.simulation: тик выполнен: час=6, торговцев=5, маршрутов=8, возможностей=22, принято=9, покупок=5, продаж=0, в пути=5
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: прибыль 48 CP меньше минимальной маржи (817 CP)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: прибыль 48 CP меньше минимальной маржи (532 CP)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (113) не выше цены закупки (142)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (75) не выше цены закупки (104)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (47) не выше цены закупки (83)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (52) не выше цены закупки (83)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: прибыль 131 CP меньше минимальной маржи (186 CP)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (109) не выше цены закупки (113)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (71) не выше цены закупки (75)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (113) не выше цены закупки (153)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (75) не выше цены закупки (109)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (109) не выше цены закупки (138)
+2026-11-09 21:40:38,496 INFO app.simulation:   сделка отклонена: цена назначения (71) не выше цены закупки (99)
+2026-11-09 21:40:40,519 INFO app.simulation: тик выполнен: час=12, торговцев=5, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=0, в пути=5
+2026-11-09 21:40:42,546 INFO app.simulation: тик выполнен: час=18, торговцев=5, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=3, в пути=2
+2026-11-09 21:40:44,583 INFO app.simulation: тик выполнен: час=24, торговцев=5, маршрутов=6, возможностей=14, принято=7, покупок=3, продаж=2, в пути=3
+2026-11-09 21:40:44,583 INFO app.simulation:   сделка отклонена: прибыль 487 CP меньше минимальной маржи (885 CP)
+2026-11-09 21:40:44,583 INFO app.simulation:   сделка отклонена: цена назначения (59) не выше цены закупки (83)
+2026-11-09 21:40:44,583 INFO app.simulation:   сделка отклонена: цена назначения (39) не выше цены закупки (98)
+2026-11-09 21:40:44,583 INFO app.simulation:   сделка отклонена: цена назначения (43) не выше цены закупки (98)
+2026-11-09 21:40:44,583 INFO app.simulation:   сделка отклонена: прибыль 58 CP меньше минимальной маржи (73 CP)
+2026-11-09 21:40:44,583 INFO app.simulation:   сделка отклонена: цена назначения (59) не выше цены закупки (63)
+2026-11-09 21:40:44,583 INFO app.simulation:   сделка отклонена: прибыль 48 CP меньше минимальной маржи (442 CP)
+2026-11-09 21:40:46,619 INFO app.simulation: тик выполнен: час=30, торговцев=5, маршрутов=4, возможностей=12, принято=5, покупок=2, продаж=0, в пути=5
+2026-11-09 21:40:46,619 INFO app.simulation:   сделка отклонена: цена назначения (99) не выше цены закупки (135)
+2026-11-09 21:40:46,619 INFO app.simulation:   сделка отклонена: цена назначения (59) не выше цены закупки (87)
+2026-11-09 21:40:46,619 INFO app.simulation:   сделка отклонена: цена назначения (37) не выше цены закупки (103)
+2026-11-09 21:40:46,619 INFO app.simulation:   сделка отклонена: прибыль 146 CP меньше минимальной маржи (148 CP)
+2026-11-09 21:40:46,619 INFO app.simulation:   сделка отклонена: цена назначения (40) не выше цены закупки (103)
+2026-11-09 21:40:46,619 INFO app.simulation:   сделка отклонена: прибыль 136 CP меньше минимальной маржи (154 CP)
+2026-11-09 21:40:46,619 INFO app.simulation:   сделка отклонена: цена назначения (56) не выше цены закупки (59)
+2026-11-09 21:40:48,649 INFO app.simulation: тик выполнен: час=36, торговцев=5, маршрутов=0, возможностей=0, принято=0, покупок=0, продаж=2, в пути=3
+2026-11-09 21:40:50,678 INFO app.simulation: тик выполнен: час=42, торговцев=5, маршрутов=3, возможностей=5, принято=3, покупок=2, продаж=1, в пути=4
+2026-11-09 21:40:50,678 INFO app.simulation:   сделка отклонена: прибыль 0 CP меньше минимальной (10 CP) с учётом издержков и риска
+2026-11-09 21:40:50,678 INFO app.simulation:   сделка отклонена: цена назначения (50) не выше цены закупки (70)
+2026-11-09 21:40:52,721 INFO app.simulation: тик выполнен: час=48, торговцев=5, маршрутов=1, возможностей=3, принято=1, покупок=1, продаж=2, в пути=3
+2026-11-09 21:40:52,721 INFO app.simulation:   сделка отклонена: цена назначения (110) не выше цены закупки (113)
+2026-11-09 21:40:52,721 INFO app.simulation:   сделка отклонена: цена назначения (50) не выше цены закупки (73)
+2026-11-09 21:40:54,755 INFO app.simulation: тик выполнен: час=54, торговцев=5, маршрутов=4, возможностей=9, принято=3, покупок=2, продаж=2, в пути=3
+2026-11-09 21:40:54,755 INFO app.simulation:   сделка отклонена: цена назначения (29) не выше цены закупки (130)
+2026-11-09 21:40:54,755 INFO app.simulation:   сделка отклонена: цена назначения (32) не выше цены закупки (130)
+2026-11-09 21:40:54,755 INFO app.simulation:   сделка отклонена: прибыль 82 CP меньше минимальной маржи (97 CP)
+2026-11-09 21:40:54,755 INFO app.simulation:   сделка отклонена: цена назначения (44) не выше цены закупки (47)
+2026-11-09 21:40:54,755 INFO app.simulation:   сделка отклонена: прибыль 358 CP меньше минимальной маржи (731 CP)
+2026-11-09 21:40:54,755 INFO app.simulation:   сделка отклонена: цена назначения (47) не выше цены закупки (69)
+2026-11-09 21:40:56,456 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:40:56,456 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:41:06,302 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:41:06,302 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:32,101 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:32,101 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:32,218 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:32,218 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:33,784 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:33,784 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:42,131 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:42,131 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:44,049 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:44,049 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:46,140 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:46,140 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:47,620 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:47,620 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:48,308 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:48,308 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,272 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,272 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,426 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,426 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,582 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,582 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,708 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,708 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,917 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-09 21:42:49,917 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
